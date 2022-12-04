@@ -1,0 +1,18 @@
+
+H
+java:S4925"-Remove this "Class.forName()", it is useless.(õ†¨Äùÿÿÿÿ
+Q	java:S125*"<This block of commented-out lines of code should be removed.(É â
+g
+java:S3457-"Q%n should be used in place of \n to produce the platform-specific line separator.(Â”Ð
+;
+java:S3457-"%String contains no format specifiers.(Â”Ð
+l
+java:S3457/"Q%n should be used in place of \n to produce the platform-specific line separator.(†ƒ¦Ÿøÿÿÿÿ
+A
+java:S1172;"+Remove this unused method parameter "args".(€’Ü¦
+g
+java:S3457B"Q%n should be used in place of \n to produce the platform-specific line separator.(Â”Ð
+;
+java:S3457B"%String contains no format specifiers.(Â”Ð
+d
+java:S1192"IDefine a constant instead of duplicating this literal "postgres" 4 times.(Ü«Îüþÿÿÿÿ
